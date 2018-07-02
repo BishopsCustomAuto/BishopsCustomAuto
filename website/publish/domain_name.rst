@@ -50,7 +50,7 @@ First let's authorize the redirection (yourcompany.com -> yourcompany.odoo.com):
 .. image:: media/domain_name01.png
     :align: center
 
-* Go to the *Manage Databases* page.
+* Go to the *Manage Databases* page. (Back in the same menu, by clicking on your name in the top right corner - "my Databases")
 
 .. image:: media/domain_name02.png
     :align: center
