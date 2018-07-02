@@ -14,7 +14,7 @@ available options.
 How to create attributes & variants
 ===================================
 
-* Turn on *Products can have several attributes, defining variants (Example:
+* Turn on *Attributes and Variants, defining variants (Example:
   size, color,...)* in :menuselection:`Sales --> Settings`.
 
 * Select a product from the Products list, go to the *Variants* tab.
